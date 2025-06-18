@@ -1,9 +1,9 @@
-# Root and Crown Website
+# Root and Crown
 
-This is a working React + TailwindCSS + Next.js site for Root and Crown.
+Production-ready Next.js site for Root and Crown. Tailwind CSS enabled. Vercel-compatible.
 
-## To Deploy
+## Deploy Steps
 
-1. Upload this to your GitHub repo.
-2. Vercel will automatically detect and deploy.
-3. Done.
+1. Upload all files to GitHub
+2. Deploy on Vercel (auto-detects Next.js)
+3. Enjoy your site at rootandcrown.tv
